@@ -1,2 +1,3 @@
 # keystone-element
-Simple usage of the excellent distort.js library.
+Simple usage of the excellent distort.js [https://github.com/isuttell/distort] library.
+
